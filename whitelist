@@ -1,8 +1,10 @@
 [Adblock Plus 2.0]
 ! Title: JD's PCs Filter
 ! Description: JD's PCs Custom Managed Filter
-! Version: 1.26.04.06.1203
-! Expires: 1 minute (update frequency)
+! Version: 1.26.04.06.1302
+! Expires: 1 day (update frequency)
+!
+! ALLOWLIST !
 @@||sendgrid.net^
 @@||lifelongformation.com^
 @@||snappages.site^
@@ -15,7 +17,6 @@
 @@||third.church^
 @@||mail-attachment.googleusercontent.com^
 @@||guard.io^
-||cmbkz8bui000008k22bcm3b3k.info^
 @@||optery.com^
 @@||chart.myunitypoint.org^
 @@||myunitypoint.org^
@@ -24,10 +25,6 @@
 @@||analytics.hoopladigital.com^
 @@||pellahealth.org^
 @@||hoopladigital.com^
-||anydesk.com^
-||teamviewer.com^
-||ultraviewer.net^
-||logmein.com^
 @@||us.search.yahoo.com^
 @@||search.yahoo.com^
 @@||main.ddgv4rlrmu56c.amplifyapp.com^
@@ -38,12 +35,6 @@
 @@||remote.management^
 @@||prd.bckp.io^
 @@||mob.system-monitor.com^
-||youporn.com^
-||theporndude.com^
-||pornhub.com^
-||www-eporner-com.punheteiro.net^
-||www-eporner-com.proxyadult.org^
-||www.venus-adult-news.com^
 @@||backup.management^
 @@||iaso.com^
 @@||cloudbackup.management^
@@ -59,3 +50,18 @@
 @@||costco.com^
 @@||sage.com^
 @@||runaware.com^
+! BLOCKLIST !
+||youporn.com^
+||theporndude.com^
+||pornhub.com^
+||www-eporner-com.punheteiro.net^
+||www-eporner-com.proxyadult.org^
+||www.venus-adult-news.com^
+||cmbkz8bui000008k22bcm3b3k.info^
+!
+! Remote Software
+!
+||anydesk.com^
+||teamviewer.com^
+||ultraviewer.net^
+||logmein.com^
