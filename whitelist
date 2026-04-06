@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: JD's PCs Filter
 ! Description: JD's PCs Custom Managed Filter
-! Version: 1.26.04.06.1302
+! Version: 1.26.04.06.1717
 ! Expires: 1 day (update frequency)
 !
 ! ALLOWLIST !
@@ -65,3 +65,5 @@
 ||teamviewer.com^
 ||ultraviewer.net^
 ||logmein.com^
+||cmdm.comodo.com^
+||remoteaccess.itarian.com^
