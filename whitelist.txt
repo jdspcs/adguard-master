@@ -65,3 +65,5 @@
 ||teamviewer.com^
 ||ultraviewer.net^
 ||logmein.com^
+||cmdm.comodo.com^
+||remoteaccess.itarian.com^
