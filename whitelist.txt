@@ -18,6 +18,7 @@
 @@||mail-attachment.googleusercontent.com^
 @@||guard.io^
 @@||optery.com^
+@@||www.chart.myunitypoint.org^
 @@||chart.myunitypoint.org^
 @@||myunitypoint.org^
 @@||desmoineregister.com^
