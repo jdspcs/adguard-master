@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: JD's PCs Filter
 ! Description: JD's PCs Custom Managed Filter
-! Version: 1.26.04.15.1018
+! Version: 1.26.04.16.1412
 ! Expires: 1 day (update frequency)
 !
 ! ALLOWLIST !
@@ -59,6 +59,7 @@
 ||www-eporner-com.proxyadult.org^
 ||www.venus-adult-news.com^
 ||cmbkz8bui000008k22bcm3b3k.info^
+||ccsa-ezeqfzadg5cxe4fc.z03.azurefd.net^
 !
 ! Remote Software
 !
