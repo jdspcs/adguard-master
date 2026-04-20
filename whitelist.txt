@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: JD's PCs Filter
 ! Description: JD's PCs Custom Managed Filter
-! Version: 1.26.04.16.1412
+! Version: 1.26.04.20.1237
 ! Expires: 1 day (update frequency)
 !
 ! ALLOWLIST !
@@ -51,6 +51,7 @@
 @@||costco.com^
 @@||sage.com^
 @@||runaware.com^
+@@||centerwellpharmacy.com^
 ! BLOCKLIST !
 ||youporn.com^
 ||theporndude.com^
