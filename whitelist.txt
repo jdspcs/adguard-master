@@ -53,7 +53,8 @@
 @@||runaware.com^
 @@||centerwellpharmacy.com^
 @@||marioncountybank.myebanking.net^
-@@||*.squarespace.com^
+@@||squarespace.com^
+@@||assets.squarespace.com^
 ! BLOCKLIST !
 ||youporn.com^
 ||theporndude.com^
