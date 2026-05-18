@@ -55,6 +55,7 @@
 @@||marioncountybank.myebanking.net^
 @@||squarespace.com^
 @@||assets.squarespace.com^
+@@||static1.squarespace.com^
 ! BLOCKLIST !
 ||youporn.com^
 ||theporndude.com^
