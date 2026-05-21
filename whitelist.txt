@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: JD's PCs Filter
 ! Description: JD's PCs Custom Managed Filter
-! Version: 1.26.05.14.1146
+! Version: 1.26.05.21.1604
 ! Expires: 1 day (update frequency)
 !
 ! ALLOWLIST !
@@ -54,6 +54,7 @@
 @@||centerwellpharmacy.com^
 @@||marioncountybank.myebanking.net^
 @@||squarespace.com^
+@@||click.o.delta.com^
 ! BLOCKLIST !
 ||youporn.com^
 ||theporndude.com^
