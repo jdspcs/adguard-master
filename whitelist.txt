@@ -1,10 +1,11 @@
 [Adblock Plus 2.0]
 ! Title: JD's PCs Filter
 ! Description: JD's PCs Custom Managed Filter
-! Version: 1.26.05.21.1604
+! Version: 1.26.07.23.0958
 ! Expires: 1 day (update frequency)
 !
 ! ALLOWLIST !
+@@||track.xtream.com^
 @@||sendgrid.net^
 @@||lifelongformation.com^
 @@||snappages.site^
