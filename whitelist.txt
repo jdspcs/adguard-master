@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: JD's PCs Filter
 ! Description: JD's PCs Custom Managed Filter
-! Version: 1.26.09.03.1614
+! Version: 1.26.09.16.0938
 ! Expires: 1 day (update frequency)
 !
 ! ALLOWLIST !
@@ -59,6 +59,7 @@
 @@||ameriprise.com^
 @@||geosolinc.com^
 @@||iowaworks.gov^
+@@||pandasecurity.com^
 ! BLOCKLIST !
 ||youporn.com^
 ||theporndude.com^
