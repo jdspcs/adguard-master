@@ -62,6 +62,9 @@
 @@||pandasecurity.com^
 @@||instance-g467dn-relay.screenconnect.com^
 @@||rephr.com^
+@@||vista.com^
+@@||vistaprint.com^
+@@||cimpress.io^
 ! BLOCKLIST !
 ||youporn.com^
 ||theporndude.com^
